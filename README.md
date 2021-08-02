@@ -1,1 +1,2 @@
-# Project-22-Ball-Bounce-Game
+# collisionAlgorithm
+Algorithm to detect collision between two objects
